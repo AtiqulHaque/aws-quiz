@@ -44,7 +44,7 @@ rds/
 
 1. **Navigate to backend directory:**
    ```bash
-   cd aws-rds-quiz-backend
+   cd quiz-backend
    ```
 
 2. **Install Go dependencies:**
@@ -66,7 +66,7 @@ rds/
 
 1. **Navigate to frontend directory:**
    ```bash
-   cd aws-rds-quiz
+   cd quiz-frontend
    ```
 
 2. **Install dependencies:**
@@ -80,24 +80,6 @@ rds/
    ```
 
    The frontend will start on `http://localhost:3000`
-
-## 📚 Features
-
-### Frontend Features
-- **Modern UI**: Beautiful, responsive design with Tailwind CSS
-- **Smooth Animations**: Framer Motion for engaging user experience
-- **Real-time Progress**: Live progress tracking during quiz
-- **Detailed Results**: Comprehensive results with explanations
-- **Error Handling**: Graceful error handling and retry mechanisms
-- **Loading States**: Smooth loading indicators
-
-### Backend Features
-- **RESTful API**: Complete CRUD operations for questions and quiz submissions
-- **Database Management**: Automatic database initialization and seeding
-- **CORS Support**: Cross-origin resource sharing enabled
-- **Comprehensive Logging**: Request/response logging
-- **Error Handling**: Structured error responses
-- **Data Validation**: Input validation and sanitization
 
 ## 🔌 API Endpoints
 
