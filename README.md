@@ -1,3 +1,4 @@
+![alt](./banner-vd.gif)
 ![alt](./banner.png)
 # AWS RDS & Aurora Quiz
 
