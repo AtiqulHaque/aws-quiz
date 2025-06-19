@@ -1,3 +1,4 @@
+![alt](./banner.png)
 # AWS RDS & Aurora Quiz
 
 A comprehensive quiz application for testing knowledge of Amazon RDS and Aurora services. Built with a modern Next.js frontend and a robust Go backend API.
