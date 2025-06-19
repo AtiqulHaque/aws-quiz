@@ -14,14 +14,14 @@ A comprehensive quiz application for testing knowledge of Amazon RDS and Aurora 
 
 ```
 rds/
-├── aws-rds-quiz/              # Next.js Frontend
+├── quiz-frontend/              # Next.js Frontend
 │   ├── src/
 │   │   ├── app/               # App Router pages
 │   │   ├── components/        # React components
 │   │   └── lib/              # API client & utilities
 │   ├── public/               # Static assets
 │   └── package.json
-├── aws-rds-quiz-backend/      # Go Backend API
+├── quiz-backend/      # Go Backend API
 │   ├── config/               # Configuration
 │   ├── database/             # Database setup & seeding
 │   ├── handlers/             # API handlers
